@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 🌐 **Site officiel :** https://avant-de-poster.netlify.app/
 
+<img width="1894" height="908" alt="20260831112453" src="https://github.com/user-attachments/assets/04049a3c-ca75-4281-8d44-0a33a2093a88" />
+
+
 ---
 
 ## 📖 Présentation
@@ -50,6 +53,9 @@ Exemples :
 * informations présentes dans les métadonnées d'une photo.
 
 ### 📸 Réfléchir avant de publier
+
+<img width="1898" height="917" alt="20260831112503" src="https://github.com/user-attachments/assets/d6625768-a93f-4c2e-92bc-69b0e50c894b" />
+
 
 Une image peut contenir beaucoup plus d'informations qu'elle n'en a l'air.
 
@@ -187,6 +193,9 @@ Cette approche transforme la sensibilisation en **expérience interactive**.
 ---
 
 # 🤖 Analyse IA
+
+<img width="1898" height="914" alt="20260831112515" src="https://github.com/user-attachments/assets/43b5d0c9-71d1-4344-8f4e-760b9a34451f" />
+
 
 Le projet intègre également une fonctionnalité d'analyse basée sur l'intelligence artificielle.
 
