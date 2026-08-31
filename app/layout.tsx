@@ -49,6 +49,8 @@ export const metadata: Metadata = {
 
   category: "education",
 
+  verification: { google: "hGMCr1W6D99RGbRgZ1WGKJuTdw_Mmqq7rlSObwX_1Ic", },
+
   alternates: {
     canonical: SITE_URL,
   },
